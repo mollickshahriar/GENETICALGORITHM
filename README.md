@@ -1,5 +1,5 @@
 # GENETICALGORITHM
-Genetical Algorithm by Python
+## Genetical Algorithm by Python
 Genetic Algorithms are a class of algorithms designed to explore large search space and find global minimal or maximum optimal solution using mimicking evolution and natural selection. The process of using genetic algorithms goes like this: 
 1.Determine the problem and goal.
 2.Break-down the solution to bite-sized properties which is called chromosome. 
